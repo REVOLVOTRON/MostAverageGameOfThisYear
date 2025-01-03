@@ -1,0 +1,22 @@
+{
+    "width": 800,
+    "height": 600,
+    "title": "Космическая стрелялка",
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
+    "blue": [0, 0, 255],
+    "player_speed": 5,
+    "enemy_speed": 3,
+    "bullet_speed": 7,
+    "enemy_spawn_interval": 1000,
+    "player_image": "assets/player.png",
+    "enemy_image": "assets/enemy.png",
+    "bullet_image": "assets/bullet.png",
+    "player_health": 100,
+    "enemy_health": 50,
+    "bullet_damage": 10,
+    "enemies_to_upgrade": 10,
+    "damage_increase": 5,
+    "health_increase": 20,
+    "enemies_to_upgrade_increase": 5
+}
